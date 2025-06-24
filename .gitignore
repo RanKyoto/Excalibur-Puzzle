@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additional ignore
+.DS_Store
+model/images
+*.FCStd
+*.FCBak
+.vscode
+ci.yml
